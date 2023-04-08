@@ -108,12 +108,12 @@
     },
     "d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f": {
       "type": "main-collection-new",
-      "disabled": true,
       "blocks": {
         "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-0": {
           "type": "collection",
           "settings": {
-            "collection": "cotton-carry-strap"
+            "collection": "cotton-carry-strap",
+            "image": "shopify:\/\/shop_images\/170717CUR020_Bags_Curation_Banner.jpg"
           }
         },
         "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-1": {
