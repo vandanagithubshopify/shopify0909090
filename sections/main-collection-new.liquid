@@ -41,6 +41,21 @@
   {% endif %}
 </section>
 
+<style>
+  @media screen and (min-width: 860px) {
+	.dynamic-collection-list-smeg2 .home-section--content.collection-list--inner {
+		display: flex;
+	}
+	.dynamic-collection-list-smeg2 .home-section--content.collection-list--inner .collection--item {
+		margin-top: 0 !important;
+	}
+}
+@media screen and (max-width: 859px) {
+	.dynamic-collection-list-smeg2 .home-section--content.collection-list--inner {
+		flex-wrap: wrap;
+	}
+}
+</style>
 {% schema %}
 {
   "name": "Collection list New One",
