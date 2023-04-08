@@ -119,13 +119,14 @@
         "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-1": {
           "type": "collection",
           "settings": {
-            "collection": "cushion-covers"
+            "collection": "cushion-covers",
+            "image": "shopify:\/\/shop_images\/WCP-Hendeer20-Rugs2-039.jpg"
           }
         },
         "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "the-woven-picnic-rug-throw-collection"
           }
         }
       },
