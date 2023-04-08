@@ -105,45 +105,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f": {
-      "type": "main-collection-new",
-      "blocks": {
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "cotton-carry-strap",
-            "image": "shopify:\/\/shop_images\/170717CUR020_Bags_Curation_Banner.jpg"
-          }
-        },
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "cushion-covers",
-            "image": "shopify:\/\/shop_images\/WCP-Hendeer20-Rugs2-039.jpg"
-          }
-        },
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-woven-picnic-rug-throw-collection"
-          }
-        }
-      },
-      "block_order": [
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-0",
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-1",
-        "template--18608059154754__d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f-16809299570d900558-2"
-      ],
-      "settings": {
-        "title": "Collection list"
-      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "b524a86e-bcc0-4006-ad25-76f1547fc31e",
-    "d1bdc4fc-06f6-44fa-8585-ec9d0a9bc53f"
+    "b524a86e-bcc0-4006-ad25-76f1547fc31e"
   ]
 }
